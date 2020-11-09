@@ -1,4 +1,4 @@
-[My Weather App](https://Victorvs1967.github.io/weather-react-app/index.html)
+[My Weather App](https://Victorvs1967.github.io/weather-react-app/)
 
 # Getting Started with Create React App
 
