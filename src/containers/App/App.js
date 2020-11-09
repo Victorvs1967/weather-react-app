@@ -37,7 +37,6 @@ class App extends Component {
         })
     }
 
-
     setWeather = () => {
         const city = this.state.searchBarInput;
         // const API_KEY = process.env.REACT_APP_WEATHER_API_KEY; // bc257ed9149c0bb211bcd77bb987ba3
@@ -75,7 +74,6 @@ class App extends Component {
     }
 
     render() {
-
         let cardContent = <Preview />;
         if (this.state.loading) {
             cardContent = <MoonLoader />
@@ -108,7 +106,6 @@ class App extends Component {
             </div>
         );
     }
-
 } 
 
 export default App;
