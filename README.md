@@ -70,5 +70,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### "deploy": "npm run build && cp build/index.html build/200.html && surge build weather-react-vvs.surge.sh",
-### 
+### Deploy to surge
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && cp build/index.html build/200.html && surge build weather-react-vvs.surge.sh"
+  },
+
+
+
+### Deploy to github-pages
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
