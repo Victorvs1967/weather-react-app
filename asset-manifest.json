@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fdab368.chunk.css",
-    "main.js": "/static/js/main.982c1b8e.chunk.js",
-    "main.js.map": "/static/js/main.982c1b8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.320f922c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.320f922c.js.map",
-    "static/js/2.be9d4282.chunk.js": "/static/js/2.be9d4282.chunk.js",
-    "static/js/2.be9d4282.chunk.js.map": "/static/js/2.be9d4282.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6fdab368.chunk.css.map": "/static/css/main.6fdab368.chunk.css.map",
-    "static/js/2.be9d4282.chunk.js.LICENSE.txt": "/static/js/2.be9d4282.chunk.js.LICENSE.txt"
+    "main.css": "/Victorvs1967/weather-react-app/static/css/main.6fdab368.chunk.css",
+    "main.js": "/Victorvs1967/weather-react-app/static/js/main.982c1b8e.chunk.js",
+    "main.js.map": "/Victorvs1967/weather-react-app/static/js/main.982c1b8e.chunk.js.map",
+    "runtime-main.js": "/Victorvs1967/weather-react-app/static/js/runtime-main.4cacd59c.js",
+    "runtime-main.js.map": "/Victorvs1967/weather-react-app/static/js/runtime-main.4cacd59c.js.map",
+    "static/js/2.be9d4282.chunk.js": "/Victorvs1967/weather-react-app/static/js/2.be9d4282.chunk.js",
+    "static/js/2.be9d4282.chunk.js.map": "/Victorvs1967/weather-react-app/static/js/2.be9d4282.chunk.js.map",
+    "index.html": "/Victorvs1967/weather-react-app/index.html",
+    "static/css/main.6fdab368.chunk.css.map": "/Victorvs1967/weather-react-app/static/css/main.6fdab368.chunk.css.map",
+    "static/js/2.be9d4282.chunk.js.LICENSE.txt": "/Victorvs1967/weather-react-app/static/js/2.be9d4282.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.320f922c.js",
+    "static/js/runtime-main.4cacd59c.js",
     "static/js/2.be9d4282.chunk.js",
     "static/css/main.6fdab368.chunk.css",
     "static/js/main.982c1b8e.chunk.js"
