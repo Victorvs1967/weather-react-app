@@ -85,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Deploy to github-pages
+  "homepage": "https://Victorvs1967.github.io/weather-react-app/",
 
   "scripts": {
     "start": "react-scripts start",
